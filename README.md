@@ -77,7 +77,7 @@ The dashboard provides insights into key business metrics such as MRR, ARR, ARPU
 
 ## 📄 Case Study
 Full case study available here:
-Subscription_Analytics_Case_Study.pdf
+[Subscription_Analytics_Case_Study.pdf](https://github.com/caspergeorge07/Subscription-Analytics-Case-Study/blob/b6ffd026430235d3d180d0e96714a3c6b47c1bae/Subscription_Analytics_Case_Study.pdf)
 
 
 
